@@ -1,0 +1,3 @@
+[submodule "prospectus"]
+	path = prospectus
+	url = https://github.com/japomani/prospectus.git
